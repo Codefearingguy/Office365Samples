@@ -1,0 +1,1 @@
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\Compare.GraphAPIs.SampleConsoleApp\bin\Debug\Compare.GraphAPIs.SampleConsoleApp.exe.config
