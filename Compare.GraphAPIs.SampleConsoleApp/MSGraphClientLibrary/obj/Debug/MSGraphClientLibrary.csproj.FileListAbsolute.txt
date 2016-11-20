@@ -1,0 +1,17 @@
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\MSGraphClientLibrary.dll.config
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\MSGraphClientLibrary.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\MSGraphClientLibrary.pdb
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\ADAL.AuthenticationLibrary.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.Graph.Core.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.Graph.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\ADAL.AuthenticationLibrary.pdb
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\obj\Debug\MSGraphClientLibrary.csprojResolveAssemblyReference.cache
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\obj\Debug\MSGraphClientLibrary.dll
+C:\GitHub\Office365Samples\Compare.GraphAPIs.SampleConsoleApp\MSGraphClientLibrary\obj\Debug\MSGraphClientLibrary.pdb

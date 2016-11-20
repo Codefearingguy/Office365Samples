@@ -49,6 +49,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AADGraphClientLibrary\AADGraphClientLibrary.csproj">
+      <Project>{8D4EA147-561A-4CF3-A37F-8A8685E88D4C}</Project>
+      <Name>AADGraphClientLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSGraphClientLibrary\MSGraphClientLibrary.csproj">
+      <Project>{4EDD9EED-F9B0-4F32-8D1C-1E1ECF0DD7D2}</Project>
+      <Name>MSGraphClientLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
