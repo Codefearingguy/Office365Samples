@@ -13,12 +13,13 @@ namespace MSGraphClientLibrary
         GraphServiceClient graphClient;
         public MSGraphClient(bool isUserMode = false)
         {
-            if (!isUserMode)
-                graphClient = new GraphServiceClient(new AppOnlyModeAuthenticationProvider());
+            if (isUserMode)
+            {
+                graphClient = new GraphServiceClient(new UserModeAuthenticationProvider());
+            }
             else
             {
-                //code to get user mode graph client with user consent
-                graphClient = new GraphServiceClient(new UserModeAuthenticationProvider());
+                graphClient = new GraphServiceClient(new AppOnlyModeAuthenticationProvider());
             }
         }
         public async Task GetAllUsers()

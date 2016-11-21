@@ -13,11 +13,13 @@ namespace AADGraphClientLibrary
         ActiveDirectoryClient adClient;
         public AADGraphClient(bool isUserMode = false)
         {
-            if (!isUserMode)
-                adClient = AuthenticationHelper.GetActiveDirectoryClientAsApp();
-            else
+            if (isUserMode)
             {
                 adClient = AuthenticationHelper.GetActiveDirectoryClientAsUser();
+            }
+            else
+            {
+                adClient = AuthenticationHelper.GetActiveDirectoryClientAsApp();
             }
         }
         public async Task GetAllUsers()
