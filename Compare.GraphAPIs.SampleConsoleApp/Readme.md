@@ -13,12 +13,11 @@ I decided to start by building an application using  Microsoft Graph API and 
 </ul>
 Okay now let's get started!!
 
-Before you start!
-Make sure have below things ready.
+<ul>Before you start, make sure have below things ready.
 
-You need an Office 365 tenant/ Azure AD tenant.
-Visual Studio 2015
-Glass of beer !
+<li>You need an Office 365 tenant/ Azure AD tenant.</li>
+<li>Visual Studio 2015</li>
+</ul>
 Register your App
 For this code sample and for learning purpose we will register 2 apps, one which will run with Application permissions (Apponly mode) another which will run with Delegated or user permissions.
 
