@@ -2,14 +2,15 @@ For a long time I have been a big lazy developer. I was quite happy in my world 
 
 I decided to start by building an application using  Microsoft Graph API and very soon I got lost. Lots of code samples and blogs but many does not work because of upgrades done to nuget packages and Azure portal after they were written. Few which are written recently used MSAL but I wanted to try out ADAL first because MSAL is not yet production ready(as of 21-11-2016). Finally after digging through multiple blog posts and wasting my whole sunday (turns out it was my most productive sunday for quite long time :-) ) I finally managed to learn it !! Yay.. So I developed a code sample which compares Azure AD Graph API and Microsoft Graph API. The sample uses ADAL v3 for authentication.
 
-Below are some key things which you will learn through the sample code and this post.
+<ul>Below are some key things which you will learn through the sample code and this post.
 
-How to register an application and assign application permission and delegated permissions.
-How to authenticate to Azure using ADAL
-How to generate access tokens for user context & application context
-How to run your application in User context and in Application context
-How to use Microsoft Graph API client and  request resources in user & application context.
-How to use Azure AD Graph API client and  request resources in user & application context.
+<li>How to register an application and assign application permission and delegated permissions.</li>
+<li>How to authenticate to Azure using ADAL</li>
+<li>How to generate access tokens for user context & application context</li>
+<li>How to run your application in User context and in Application context</li>
+<li>How to use Microsoft Graph API client and  request resources in user & application context.</li>
+<li>How to use Azure AD Graph API client and  request resources in user & application context.</li>
+</ul>
 Okay now let's get started!!
 
 Before you start!
